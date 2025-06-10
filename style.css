@@ -1,0 +1,29 @@
+h1 {
+  color: #2296C7;
+  font-size: 40px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
+
+h3 {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+p {
+ font-weight: 800;
+ font-family: cursive;
+}
+
+ul {
+    list-style-image: url( 'images/pointer-icon.png' );
+}
+
+ol{
+    list-style-type: upper-roman;
+}
